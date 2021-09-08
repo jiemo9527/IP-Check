@@ -12,6 +12,6 @@
 
 
 ## 使用
-#### workers访问地址后加+你要查询的ip或域名
+#### workers访问地址后加+你要查询的ip或域名;不加ip会默认查询自己的ip
 #### 即https://ip.jie02.top/{ip/domain}
 #### 举例：https://ip.jie02.top/baidu.com
